@@ -1,7 +1,7 @@
 # IT-Tutorial
 #### By:Emajin Brown
 
-##Software Development##
+##Software Development
 #### By: Emajin Brown
 
 
