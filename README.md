@@ -1,5 +1,5 @@
 # IT-Tutorial
-#### By:Emajin Brown
+
 
 ##Software Development
 #### By: Emajin Brown
